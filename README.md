@@ -5,7 +5,7 @@
 
 - 👨‍🏫 Pretendo aprender: **CSS, JavaScript, BootStrap, AngularJS, React e VueJS**
 
-- 🧑‍💻 Pretendo trabalhar como: **Desenvolvedor Jr. FullStack**
+- 🧑‍💻 Pretendo trabalhar como: **Desenvolvedor Web FullStack Jr.**
 
 - 🌱 Estou aprendendo: [HTML, Git e Github](https://github.com/mthsmoreira33/html_growdev)
 
