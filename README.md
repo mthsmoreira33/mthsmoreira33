@@ -1,5 +1,5 @@
 <h1 align="center">Bem vindos ao meu perfil! 👋</h1>
-<h3 align="center">Futuro desenvolvedor, participante da 13ª turma do Starter FullStack da Growdev!</h3>
+<h3 align="center">Futuro desenvolvedor, tenho 22 anos e participo da 13ª turma do Starter FullStack da Growdev!</h3>
 
 - 👨‍💼 Estou trabalhando atualmente em: **BackOffice Logística**
 
