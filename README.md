@@ -9,7 +9,7 @@
 
 - 🌱 Estou aprendendo: [HTML, Git e Github](https://github.com/mthsmoreira33/html_growdev)
 
-- 🗣 Idiomas: **🇺🇸 Inglês (Avançado), 🇪🇸 Espanhol (Básico), 🇨🇳 Mandarim (Iniciante)**
+- 🗣 Idiomas: **🇺🇸 Inglês (Avançado), 🇪🇸 Espanhol (Básico)
 
 - 🎲 Hobbies: **Videogame 🎮, Assistir esportes ⚽🏈, Aprender sobre culturas 🌎**
 
