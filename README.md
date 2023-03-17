@@ -1,13 +1,11 @@
 <h1 align="center">Bem vindos ao meu perfil! 👋</h1>
 <h3 align="center">Futuro desenvolvedor, tenho 23 anos e participo da 13ª turma do Starter FullStack da Growdev!</h3>
 
-- 👨‍💼 Estou trabalhando atualmente em: **BackOffice Logística**
+- 👨‍💼 Estou trabalhando atualmente em: **Virtual Assistant**
 
 - 👨‍🏫 Pretendo aprender: **CSS, JavaScript, BootStrap, AngularJS, React e VueJS**
 
 - 🧑‍💻 Pretendo trabalhar como: **Desenvolvedor Web FullStack Jr.**
-
-- 🌱 Estou aprendendo: [HTML, Git, Github e Javascript](https://github.com/mthsmoreira33/html_growdev)
 
 - 🗣 Idiomas: **🇺🇸 Inglês (Avançado), 🇪🇸 Espanhol (Básico)
 
