@@ -3,7 +3,7 @@
 
 - 👨‍💼 Estou trabalhando atualmente em: **Virtual Assistant**
 
-- 👨‍🏫 Pretendo aprender: **CSS, JavaScript, BootStrap, AngularJS, React e VueJS**
+- 👨‍🏫 Pretendo aprender: **CSS, JavaScript, BootStrap, AngularJS, React, VueJS, Java e Spring Boot**
 
 - 🧑‍💻 Pretendo trabalhar como: **Desenvolvedor Web FullStack Jr.**
 
