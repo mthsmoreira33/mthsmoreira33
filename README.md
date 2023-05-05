@@ -50,13 +50,13 @@
 </picture>
 <picture>
 <source
-  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&size_weight=0.5&count_weight=0.5"
+  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mthsmoreira33&size_weight=0.5&count_weight=0.5"
   media="(prefers-color-scheme: dark)"
 />
 <source
-  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&size_weight=0.5&count_weight=0.5"
+  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mthsmoreira33&size_weight=0.5&count_weight=0.5"
 />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&size_weight=0.5&count_weight=0.5" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mthsmoreira33&size_weight=0.5&count_weight=0.5" />
 </picture></p>
 
 
