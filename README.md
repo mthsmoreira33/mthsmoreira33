@@ -1,7 +1,7 @@
 <h1 align="center">Bem vindos ao meu perfil! 👋</h1>
-<h3 align="center">Futuro desenvolvedor, tenho 23 anos e participo da 13ª turma do Starter FullStack da Growdev!</h3>
+<h3 align="center">Futuro desenvolvedor, tenho 23 anos e participo da 16ª Edição do Starter FullStack da Growdev!</h3>
 
-- 👨‍💼 Estou trabalhando atualmente em: **Virtual Assistant**
+- 👨‍💼 Estou trabalhando atualmente em: **Social Media**
 
 - 👨‍🏫 Pretendo aprender: **CSS, JavaScript, BootStrap, AngularJS, React, VueJS, Java e Spring Boot**
 
