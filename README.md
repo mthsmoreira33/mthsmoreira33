@@ -7,7 +7,7 @@
 
 - 🧑‍💻 Pretendo trabalhar como: **Desenvolvedor Web FullStack Jr.**
 
-- 🗣 Idiomas: **🇺🇸 Inglês (Avançado), 🇪🇸 Espanhol (Básico)
+- 🗣 Idiomas: **🇺🇸 Inglês (Avançado), 🇪🇸 Espanhol (Básico)**
 
 - 🎲 Hobbies: **Videogame 🎮, Assistir esportes ⚽🏈, Aprender sobre culturas 🌎**
 
