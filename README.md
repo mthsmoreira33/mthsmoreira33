@@ -27,6 +27,7 @@
   <a href="https://styled-components.com/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/20658825?v=4" width="40" height="40"/></a>
   <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/></a>
   <a href="https://expressjs.com/pt-br/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40"/></a>
+  <a href="https://expressjs.com/pt-br/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/kotlin/kotlin-original.svg" width="40" height="40"/></a>
 </p>
 
 
