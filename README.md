@@ -1,12 +1,12 @@
-<h1>Bem vindo ao meu perfil! 🇧🇷<br><br> Welcome to my profile! 🇺🇸</h1>
+<h1>Bem vindo ao meu perfil! 🇧🇷🇵🇹<br><br> Welcome to my profile! 🇺🇸🇬🇧</h1>
 
-🇧🇷
+🇧🇷🇵🇹
 Sou Desenvolvedor Back-end Java, mas adoro dar uma estudada em outras linguagens no tempo livre.
 
 Experiência em Web Design (WordPress e Elementor).
 
 
-🇺🇸
+🇺🇸🇬🇧
 I'm a Backend Java Developer, but I love to study other languages in my free time as well.
 
 I also have expertise in Web Design (WordPress and Elementor).
