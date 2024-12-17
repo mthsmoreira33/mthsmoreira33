@@ -1,22 +1,16 @@
 <h1>Bem vindo ao meu perfil! 🇧🇷🇵🇹<br><br> Welcome to my profile! 🇺🇸🇬🇧</h1>
 
 🇧🇷🇵🇹
-Sou Desenvolvedor Back-end Java, mas adoro dar uma estudada em outras linguagens no tempo livre.
+Sou Desenvolvedor Back-end C#, mas adoro dar uma estudada em outras linguagens no tempo livre.
 
 Experiência em Web Design (WordPress e Elementor).
 
 
 🇺🇸🇬🇧
-I'm a Backend Java Developer, but I love to study other languages in my free time as well.
+I'm a Backend C# Developer, but I love to study other languages in my free time as well.
 
 I also have expertise in Web Design (WordPress and Elementor).
 
-<h2>Principal Stack / Main Stack</h2>
-<div>
-  <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
-  <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" />
-  <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
-</div>
 
 <h2>Redes Sociais / Social Networks</h2>
 <div>
