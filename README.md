@@ -19,4 +19,4 @@ I also have expertise in Web Design (WordPress and Elementor).
 </div>
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=mthsmoreira33&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="mthsmoreira33's GitHub Stats" width="380"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mthsmoreira33&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="mthsmoreira33's GitHub Stats" width="380"/>
+<img src="https://github-readme-stats.vercel.app/api?username=mthsmoreira33&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="mthsmoreira33's GitHub Stats" height="200"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mthsmoreira33&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="mthsmoreira33's GitHub Stats" height="200"/>
