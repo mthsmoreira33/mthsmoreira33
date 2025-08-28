@@ -1,13 +1,13 @@
 <h1>Bem vindo ao meu perfil! :brazil: :portugal: <br><br> Welcome to my profile! :us: :uk: </h1>
 
 
-Sou Desenvolvedor Back-end C#, mas não dispenso dar uma olhada em outras linguagens no tempo livre.
+Sou Desenvolvedor Back-end C#, mas não dispenso estudar em outras linguagens.
 
 Experiência em Web Design (WordPress e Elementor).
 
 
 
-I'm a Backend C# Developer, but I love to study other languages in my free time as well.
+I'm a Backend C# Developer, but I won't waste any opportunity to learn another language.
 
 I also have expertise in Web Design (WordPress and Elementor).
 
