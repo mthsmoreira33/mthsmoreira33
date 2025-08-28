@@ -1,13 +1,13 @@
 <h1>Bem vindo ao meu perfil! :brazil: :portugal: <br><br> Welcome to my profile! :us: :uk: </h1>
 
 
-Sou Desenvolvedor Back-end C#, mas não dispenso estudar em outras linguagens.
+Sou Desenvolvedor FullStack React + ASP.NET C#, mas não dispenso estudar outras linguagens.
 
 Experiência em Web Design (WordPress e Elementor).
 
 
 
-I'm a Backend C# Developer, but I won't waste any opportunity to learn another language.
+I'm a FullStactk React / ASP.NET C# Developer, but I won't waste any opportunity to learn another language.
 
 I also have expertise in Web Design (WordPress and Elementor).
 
